@@ -1,0 +1,14 @@
+body{
+  background-color: #2d2d2f;
+}
+.main-header{
+  margin-top: 350px;
+  margin-bottom: 350px;
+}
+.article-title{
+  background-color: #006064;
+  margin-bottom: 100px;
+}
+.article-content{
+  margin-bottom: 100px;
+}
